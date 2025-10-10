@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>跑路网页</title>
+    <style>
+       
+        body {
+            /* 使用多重渐变颜色 */
+            background: linear-gradient(to right, rgba(0, 191, 255, 0.6), rgba(255, 0, 0, 0.6)), 
+                        url('https://commimg.pddpic.com/upload/common/network_clear/a543bc5c-e411-493e-bfd1-fa8d5c24abfd.jpg') no-repeat center center;
+            background-size: cover;
+            margin: 0;
+            padding: 0;
+            font-family: 'Noto Sans SC', sans-serif;
+            color: #fff;
+            text-align: center;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            height: 100vh;
+            /* 调整背景亮度 */
+            background-color: rgba(0, 0, 0, 0.5); /* 降低不透明度，使背景更自然 */
+        }
+
+        h1 {
+            font-size: 60px;
+            font-weight: bold;
+            font-family: 'Roboto', sans-serif;
+            text-shadow: 6px 6px 12px rgba(0, 0, 0, 0.8);
+            letter-spacing: 3px;
+            margin-bottom: 40px;
+            animation: neon 2s infinite alternate;
+        }
+
+        p {
+            font-size: 26px;
+            font-weight: 400;
+            text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.8);
+            animation: fadeIn 1s ease-in;
+            color: pink;
+            animation: neon 2s infinite alternate;
+        }
+
+        /* 动画效果 */
+        @keyframes neon {
+            from {
+                text-shadow: 6px 6px 12px rgba(0, 191, 255, 0.8); /* 蓝色霓虹 */
+            }
+            to {
+                text-shadow: 6px 6px 12px rgba(255, 0, 0, 0.8); /* 红色霓虹 */
+            }
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+            }
+            to {
+                opacity: 1;
+            }
+        }
+    </style>
+</head>
+<body>
+    <h1>我跑路了！</h1>
+    <p>承蒙您一直以来的支持，如今的我，已在生活的浪潮中渐渐失去了曾经的爱好。曾经热衷之事，如今已不再触碰。我已下定决心离开，愿您万事顺遂，莫要辜负这漫漫时光。若有缘，他日自会再相逢。</p>
+</body>
+</html>
