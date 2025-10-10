@@ -1,0 +1,44 @@
+{
+    "任务开关": "开",
+    "任务延次": 0,
+    "任务标题": "任务1",
+    "任务链接": "https://www.baidu.com/",
+    "任务答案": ["答案1", "答案2", "答案3"],
+    "任务网页": "https://picbed.qunarzz.com/d1f12f6ef76778637770e59779f2687c.jpg",
+    "公告开关":"开",
+    "公告标题":"软件公告",
+    "公告内容":"欢迎使用芜湖聚合库APP
+ ✧*｡٩(ˊᗜˋ*)و✧*｡
+软件在使用过程中 若遇到疑问或问题 请点击QQ群加入联系客服为您解决!
+资源不断更新!祝各位使用愉快~",
+    "公告按钮1":"确定",
+    "公告按钮2":"QQ群",
+    "公告按钮3":"官网下载",
+    "公告按钮1事件":"关闭",
+    "公告按钮2事件":"加群",
+    "公告按钮3事件":"打开网址",
+    "公告按钮1事件内容":"",
+    "公告按钮2事件内容":"66666",
+    "公告按钮3事件内容":"https://www.baidu.com/",
+    "下载匹配": ["lanzou", "lanz","lanzoux"],
+    "轮播图": [
+        {"标题":"打赏作者", "图片": "https://static.fotor.com.cn/assets/projects/pages/dfc56cfc-7739-4685-8296-6fd3a672f657_ad4cf17b-4cfc-4a14-a04a-4b43d99d529c_thumb.jpg", "链接": "https://dssj.pages.dev/"},
+        {"标题":"免费视频去水印", "图片": "https://www.shuiyinyun.com/upload/portal/20230425/174ea57801612b61b7f60ea9f54a06c9.jpg", "链接": "https://dy.kukutool.com/"},
+        {"标题":"芜湖影视", "图片": "https://gips2.baidu.com/it/u=3716624248,4104409468&fm=3042&app=3042&f=JPEG&wm=1,baiduai3,0,0,13,9&wmo=5,5&w=1280&h=720", "链接": "https://whys-3oq.pages.dev/"},
+        {"标题":"蚂蚁软件库", "图片": "https://tencentcdna.production.link3.cc/user_create_images/link3_1706669905878/image_square_or_rectangle/1731807697094", "链接": "https://msr-yyds.great-site.net/rjk/?i=2"}
+        
+
+
+    ],
+    "主页网页": [
+    
+        {"标题":"分享站", "链接": "https://link3.cc/lgdmsr"},
+        {"标题":"影视动漫", "链接": "https://m.baidu.com/?from=1012852z"},
+        {"标题":"漫画小说", "链接": "https://m.baidu.com/?from=1012852z"},
+        {"标题":"实用软件", "链接": "https://m.baidu.com/?from=1012852z"},
+        {"标题":"原创软件", "链接": "https://m.baidu.com/?from=1012852z"},
+        {"标题":"办公学习", "链接": "https://m.baidu.com/?from=1012852z"},
+        {"标题":"未分类软件", "链接": "https://m.baidu.com/?from=1012852z"}
+        
+    ]
+}
